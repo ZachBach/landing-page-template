@@ -6,7 +6,7 @@ import './Hero.css';
 function Hero() {
   return (
     <div className='hero-container'>
-      <video src='/video/video-2.mp4' autoPlay loop muted></video>
+      <video src='/videos/video-2.mp4' autoPlay loop muted></video>
       <h1>Climate Control</h1>
       <p>Needs to change today, not tomorrow</p>
       <div className='hero-btns'>
@@ -15,6 +15,12 @@ function Hero() {
           buttonStyle='btn--outline'
           buttonSize='btn--large'>
           Get Started
+        </Button>
+        <Button
+          className='btns'
+          buttonStyle='btn--primary'
+          buttonSize='btn--large'>
+          Watch Trailer <i className='far fa-play-circle'></i>
         </Button>
       </div>
     </div>
