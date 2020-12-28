@@ -7,7 +7,7 @@
 
 .home,
 .services,
-.products,
+.enviroment,
 .sign-up {
   display: flex;
   height: 90vh;
@@ -25,7 +25,7 @@
   font-size: 100px;
 }
 
-.products {
+.enviroment {
   background-image: url('/images/img-1.jpg');
   background-position: center;
   background-size: fill;
