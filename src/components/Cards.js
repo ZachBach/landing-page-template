@@ -47,6 +47,20 @@ function Cards() {
               label='Jungle'
               path='/services'
             />
+          </ul>
+          <ul className='cards__items'>
+            <CardItem
+              src='/images/img-9.jpg'
+              text='To preserve our planet and the wide array of eco-systems they support'
+              label='Jungle'
+              path='/services'
+            />
+            <CardItem
+              src='/images/img-2.jpg'
+              text='Check out more habitats and eco-systems!'
+              label='Jungle'
+              path='/services'
+            />
             <CardItem
               src='/images/img-2.jpg'
               text='Check out more habitats and eco-systems!'
