@@ -12,7 +12,7 @@ function Cards() {
             <CardItem
               src='/images/img-1.jpg'
               text='At some point money needs to not be an issue.'
-              label='Global Governments'
+              label='Coming-Soon'
               path='/services'
             />
             <CardItem
