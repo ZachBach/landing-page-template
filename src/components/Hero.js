@@ -6,9 +6,9 @@ import './Hero.css';
 function Hero() {
   return (
     <div className='hero-container'>
-      <video src='/videos/video-2.mp4' autoPlay loop muted></video>
+      <video src='/videos/video.mp4' autoPlay loop muted></video>
       <h1>Climate Control</h1>
-      <p>Needs to change today, not tomorrow</p>
+      <p>Needs to change Now. Not tomorrow</p>
       <div className='hero-btns'>
         <Button
           className='btns'
