@@ -68,7 +68,7 @@ function Footer() {
         <div className='social-media-wrap'>
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
-              climaNow <i className='fab fa-typo3'></i>
+              climaNow <i className='fab fa-asymmetrik'></i>
             </Link>
           </div>
           <small className='website-rights'>climaNow 2020</small>
